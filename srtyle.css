@@ -1,0 +1,39 @@
+
+    .titulo {
+    
+    font-size: 27px;
+    font-weight: bold;
+    }
+    .paragrafo {
+
+        font-size: 22px;
+    }
+
+
+    body   {
+
+background-color: rgb(252, 255, 222);
+
+    }
+
+
+ .botao  {
+margin-left: 500px;
+font-size: 28px;
+margin-bottom: 34px; 
+
+
+}
+.botao-2 {
+    font-size: 28px;
+margin-left: 1500px;
+margin-bottom: 3500px;
+}
+
+
+.botao-3 {
+
+font-size: 28px;
+margin-left: 100px;
+
+}
